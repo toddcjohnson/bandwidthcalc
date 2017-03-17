@@ -1,0 +1,43 @@
+.mercy {
+  background-color: #fff;
+}
+
+.masthead.segment {
+  min-height: 700px;
+  padding: 1em 0em;
+  background-image: url('img/background-7.jpg') !important;
+  background-size: cover !important;
+  background-position: bottom;
+}
+
+.footer {
+  min-height: 100px;
+  padding: 1em;
+}
+
+.spantitle {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.subspan {
+  color: green;
+}
+
+.nothing {
+  background-image: url('img/background-1.jpg') !important;
+  background-size: cover !important;
+  background-color: #252839;
+}
+
+.avaya {
+  background-color: #CC0000;
+  background-color: #565A5C;
+  background-color: #BC8EC0;
+}
+
+.mitel {
+  background-color: #15325F;
+  background-color: #00A1F4;
+  background-color: #808285;
+}
