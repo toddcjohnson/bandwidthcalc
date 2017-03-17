@@ -23,9 +23,8 @@ export default class MenuBasic extends Component {
             </Menu.Item>
           </Menu.Menu>
           <Menu.Menu position='right'>
-            <Menu.Item name='home' active={activeItem === 'home'} onClick={this.handleItemClick} />
             <Menu.Item name='UCaaS' active={activeItem === 'UCaaS'} onClick={this.handleItemClick} />
-            <Menu.Item name='IP Simple' active={activeItem === 'IP Simple'} onClick={this.handleItemClick} />
+            <Menu.Item name='IP Simple' active={activeItem === 'IP Simple(Coming Soon)'} onClick={this.handleItemClick} />
           </Menu.Menu>
         </Menu>
         <br />
